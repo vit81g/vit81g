@@ -1,6 +1,11 @@
-Меня зовут Виталий Новиков. 
+# Виталий Новиков
 
 Руководитель службы кибербезопасности и архитектор ИБ в крупной компании.
+
+**Head of Cybersecurity & Security Architecture**
+
+Enterprise & Infrastructure Security · SOC/MDR · Incident Response & DFIR ·
+Vulnerability Management · Active Directory Security · Security Architecture
 
 Управляю полным циклом ИБ: от стратегии, построения архитектуры «с нуля» и управления командой SOC до обеспечения compliance с международными стандартами. Основная цель - снижение операционных рисков и защита критических активов.
 
