@@ -14,6 +14,11 @@ Vulnerability Management · Active Directory Security · Security Architecture
 🎓 Магистратура по кибербезопасности - НИУ ВШЭ  
 🔬 Research: Machine Learning for anomaly detection in SIEM telemetry
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
+</div>
+
 <div id="badges" align="center">
 
 </div>
