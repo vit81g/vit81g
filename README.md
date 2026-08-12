@@ -11,10 +11,8 @@ Vulnerability Management · Active Directory Security · Security Architecture
 
 Занимаюсь построением и развитием систем киберзащиты корпоративной инфраструктуры, управлением рисками, инцидентами и архитектурой ИБ в организациях с распределённой ИТ-средой.
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200"/>
-</div>
+🎓 Магистратура по кибербезопасности - НИУ ВШЭ  
+🔬 Research: Machine Learning for anomaly detection in SIEM telemetry
 
 <div id="badges" align="center">
 
