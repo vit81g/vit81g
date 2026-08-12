@@ -16,7 +16,7 @@ Vulnerability Management · Active Directory Security · Security Architecture
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9sMGtkem52dnpmOHUyY3RqcHFudDIyODlvcDVkcWt2cmxicWc2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQgKLMJvWEZKI2Hfvo/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9sMGtkem52dnpmOHUyY3RqcHFudDIyODlvcDVkcWt2cmxicWc2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hun4DFmfnDId3lid5b/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
